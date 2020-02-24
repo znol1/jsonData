@@ -8,18 +8,30 @@
       "number": 88005553535
     },
     {
-      "name": "Иван",
-      "role": "Поварешки",
-      "type": "сотрудник",
+      "name": "Антон",
+      "role": "Игрушки",
+      "type": "руководитель",
       "id": 12,
       "number": 88005553535
     },
     {
-      "name": "Иван",
-      "role": "Поварешки",
+      "name": "Олег",
+      "role": "Чашки",
       "type": "сотрудник",
       "id": 12,
       "number": 88005553535
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
     }
   ],
   "profile": {
